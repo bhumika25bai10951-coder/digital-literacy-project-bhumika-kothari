@@ -8,7 +8,7 @@
 | **Name** | Bhumika Kothari |
 | **Registration No.** | 25BAI10951 |
 | **Branch** | B.Tech – CSE with AIML |
-| **Year** | First Year (2024–25) |
+| **Year** | First Year (2025-26) |
 | **Course Code** | CSE0001 – Digital Literacy |
 
 ---
